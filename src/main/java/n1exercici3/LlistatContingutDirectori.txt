@@ -1,0 +1,28 @@
+    javaF: fitxer1.txt Última modificació: 2024-06-08 11:21:24    javaF: fitxer4.txt Última modificació: 2024-06-08 11:22:35    java    javaF: fitxer2.txt Última modificació: 2024-06-08 11:21:58    java    java    javaF: fitxer3.txt Última modificació: 2024-06-08 11:22:24    java    javaD: SubDirectori2 Última modificació: 2024-06-08 11:22:26    javaD: SubDirectori1 Última modificació: 2024-06-08 11:22:13D: DirectoriAmbSubs Última modificació: 2024-06-08 11:22:37    javaF: fitxer1.txt Última modificació: 2024-06-08 11:21:24
+    javaF: fitxer4.txt Última modificació: 2024-06-08 11:22:35
+    java    javaF: fitxer2.txt Última modificació: 2024-06-08 11:21:58
+    java    java    javaF: fitxer3.txt Última modificació: 2024-06-08 11:22:24
+    java    javaD: SubDirectori2 Última modificació: 2024-06-08 11:22:26
+    javaD: SubDirectori1 Última modificació: 2024-06-08 11:22:13
+D: DirectoriAmbSubs Última modificació: 2024-06-08 11:22:37
+    F: fitxer1.txt Última modificació: 2024-06-08 11:21:24
+    F: fitxer4.txt Última modificació: 2024-06-08 11:22:35
+        F: fitxer2.txt Última modificació: 2024-06-08 11:21:58
+            F: fitxer3.txt Última modificació: 2024-06-08 11:22:24
+        D: SubDirectori2 Última modificació: 2024-06-08 11:22:26
+    D: SubDirectori1 Última modificació: 2024-06-08 11:22:13
+D: DirectoriAmbSubs Última modificació: 2024-06-08 11:22:37
+D: DirectoriAmbSubs Última modificació: 2024-06-08 11:22:37
+
+    F: fitxer1.txt Última modificació: 2024-06-08 11:21:24
+
+    F: fitxer4.txt Última modificació: 2024-06-08 11:22:35
+
+    D: SubDirectori1 Última modificació: 2024-06-08 11:22:13
+
+        F: fitxer2.txt Última modificació: 2024-06-08 11:21:58
+
+        D: SubDirectori2 Última modificació: 2024-06-08 11:22:26
+
+            F: fitxer3.txt Última modificació: 2024-06-08 11:22:24
+

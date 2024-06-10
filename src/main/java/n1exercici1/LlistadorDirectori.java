@@ -5,9 +5,9 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 
 public class LlistadorDirectori {
-    public static void directoriList(String filePath) throws FileNotFoundException {
+    public static void directoriList(String directoriPath) throws FileNotFoundException {
 
-        File directori = new File(filePath);
+        File directori = new File(directoriPath);
 
         if (!directori.isDirectory()){
             throw new FileNotFoundException("Ruta del directori no trobada");

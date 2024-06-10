@@ -1,4 +1,4 @@
-package n1exercici1;
+package n1exercici2;
 
 import java.io.FileNotFoundException;
 
