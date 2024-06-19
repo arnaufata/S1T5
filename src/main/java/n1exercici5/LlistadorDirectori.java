@@ -14,13 +14,13 @@ public class LlistadorDirectori {
     }
 
     public static Cotxe desserialitzarObjecte(String fitxer){
+        Cotxe cotxe = null;
         try(ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream(fitxer))){
-            Cotxe cotxe = (Cotxe) objectInputStream.readObject();
-            return cotxe;
+            cotxe = (Cotxe) objectInputStream.readObject();
         } catch (IOException | ClassNotFoundException e) {
             System.out.println(e.getMessage());
-            return null;
         }
+        return cotxe;
     }
 }
 

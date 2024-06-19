@@ -25,7 +25,7 @@ Executar: java -cp . n1exercici1.Main "C:\Users\arnal\IdeaProjects\S1T5\Director
 EXERCICI 2:
 
 Compilar: javac n1exercici2/*.java
-Executar: java -cp . n1exercici2.Main "C:\Users\arnal\IdeaProjects\S1T5\Directori"
+Executar: java -cp . n1exercici2.Main "C:\Users\arnal\IdeaProjects\S1T5\DirectoriAmbSubs"
 
 EXERCICI 3:
 

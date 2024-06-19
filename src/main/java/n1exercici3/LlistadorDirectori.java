@@ -27,7 +27,7 @@ public class LlistadorDirectori {
                 directoriList.write(line + "\n");
             }
         }catch(IOException e){
-            throw new RuntimeException(e);
+            System.err.println("Error escrivint al fitxer: " + e.getMessage());
         }
     }
 
